@@ -26,6 +26,8 @@ html,body{
     var(--col4),
     var(--col5)
   );
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 ::selection{
   background: #8842fa;

@@ -80,6 +80,7 @@ input[type="search"]:focus {
   border: 1px rgb(15, 109, 185) solid;
   background-color: var(--col3);
   outline: 0;
+  
 }
 
 input::placeholder {
